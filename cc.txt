@@ -1,0 +1,92 @@
+https://doc.owncloud.com/server/next/admin_manual/installation/docker/
+
+
+
+EC2 : 
+
+1. search EC2 
+
+2. Launch instance
+
+3. select ubutu 
+
+4. search microsoft above 
+
+5. select key pair create
+
+6. Launch Instance
+
+7. Select Instances 
+
+8. check there running state 
+
+
+Salesforce : 
+
+1. select object manager 
+
+2. create custom object 
+
+3. student and Books
+
+4. select spectif object 
+
+5. goes in filed and relation ship 
+
+6. create field Books -> Author -> Publisher
+
+7. Save and new 
+
+8. same for student Class--> Roll_no -->
+
+9. new setup tabs->sign to books  and students
+
+10. setting -> search appp manager 
+
+11. give app credential --> availabel item student_ books_dashboard drag 
+
+12. use profie madhe --> system adminstration drag 
+
+13. search project
+
+14. Add Student 
+
+15. Add books
+
+16. done.
+
+
+
+Salesforce apex Code : 
+
+
+
+Google App Engine : 
+
+1. google app engine 
+
+2. new project 
+
+3. create project 
+
+4. go to console 
+
+command
+
+5. gcloud projects list 
+
+6. copy project id and use commond gcloud config set project project_id
+
+7. app create 
+
+8. enable admin api 
+
+9.  search app engine
+
+10. git clone https://github.com/manedhananjay/DSA-LAB.git
+
+11. cd DSA-LAB 
+
+12. ls 
+
+13. run code 
